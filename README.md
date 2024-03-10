@@ -6,7 +6,7 @@ run the following command to install all dependencies:
 
 `npm install`
 
-You might need to install the packe `nodemon` globally:
+You might need to install the package `nodemon` globally:
 
 `npm install -g nodemon`
 
